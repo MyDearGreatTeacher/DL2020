@@ -5,3 +5,6 @@
 Learning Pandas - Second Edition
 https://github.com/PacktPublishing/Learning-Pandas-Second-Edition
 ```
+```
+https://github.com/MyDearGreatTeacher/uTaipei2019
+```
