@@ -17,6 +17,27 @@ https://github.com/PacktPublishing/Learning-Pandas-Second-Edition
 ```
 https://github.com/MyDearGreatTeacher/uTaipei2019
 ```
+# 20200409 Tensorflow 2.0
+```
+import pandas as pd
+print("pandas version: %s" % pd.__version__)
+
+import matplotlib
+print("matplotlib version: %s" % matplotlib.__version__)
+
+import numpy as np
+print("numpy version: %s" % np.__version__)
+
+import sklearn
+print("scikit-learn version: %s" % sklearn.__version__)
+
+import tensorflow as tf
+print("tensorflow version: %s" % tf.__version__)
+
+import torch
+print("PyTorch version: %s" %torch.__version__)
+print("2020年3月PyTorch version最新版本 是1.4 請參閱https://pytorch.org/")
+```
 # 修課同學的github作業
 ```
 學號      姓名          github
