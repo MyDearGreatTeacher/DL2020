@@ -53,6 +53,8 @@ PyTorch version: 1.4.0
 [2]輸入並執行 
     %tensorflow_version 1.x
 ```
+
+![Google colab版本切換](pic/TENSORFLOW_20200409_1.png)
 ```
 在colab中使用tensorflow2.1或2.0
 https://blog.csdn.net/qq_42145862/article/details/104217873
