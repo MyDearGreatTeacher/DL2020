@@ -47,7 +47,12 @@ tensorflow version: 2.2.0-rc2
 PyTorch version: 1.4.0
 2020年3月PyTorch version最新版本 是1.4 請參閱https://pytorch.org/
 ```
-###
+### Google colab版本切換
+```
+[1]重開一個Notebook
+[2]輸入並執行 
+    %tensorflow_version 1.x
+```
 ```
 在colab中使用tensorflow2.1或2.0
 https://blog.csdn.net/qq_42145862/article/details/104217873
