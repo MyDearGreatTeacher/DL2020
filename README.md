@@ -1,5 +1,14 @@
 # DEEPLEARNING2020
+```
+官方網址: 
+https://www.tensorflow.org/
 
+教學範例:
+https://www.tensorflow.org/tutorials
+
+API說明:
+TensorFlow Core v2.1.0
+```
 # 20200312 資料分析
 ```
 Learning Pandas - Second Edition
