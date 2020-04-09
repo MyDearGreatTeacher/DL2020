@@ -9,6 +9,11 @@ https://www.tensorflow.org/tutorials
 API說明:
 TensorFlow Core v2.1.0
 ```
+```
+極詳細+超深入：最新版TensorFlow 1.x/2.x完整工程實作
+作者： 李金洪  出版社：深智數位  
+出版日期：2020/01/20
+```
 # 20200312 資料分析
 ```
 Learning Pandas - Second Edition
