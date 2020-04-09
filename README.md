@@ -15,10 +15,26 @@ TensorFlow Core v2.1.0
 出版日期：2020/01/20
 ```
 # 20200312 資料分析
+### NUMPY
+```
+NumPy 高速運算徹底解說：六行寫一隻程式？你真懂深度學習？手工算給你看！
+現場で使える! NumPyデータ処理入門
+作者： 吉田拓真, 尾原颯   譯者： 吳嘉芳, 蒲宗賢
+編者： 施威銘研究室  旗標出版社
+```
+
+### PANDAS
 ```
 Learning Pandas - Second Edition
 https://github.com/PacktPublishing/Learning-Pandas-Second-Edition
 ```
+```
+Python資料分析 第二版  Python for Data Analysis, 2nd Edition
+作者： Wes McKinney   譯者： 張靜雯  歐萊禮出版社
+出版日期：2018/10/03
+
+```
+### PPT
 ```
 https://github.com/MyDearGreatTeacher/uTaipei2019
 ```
@@ -87,3 +103,16 @@ if __name__ == '__main__':
 ```
 ![]()
 
+### Neural Network with Learning capability==regression
+```
+
+
+```
+
+# 作業:閱讀報告
+```
+LeCun, Y., Bengio, Y. and Hinton, G. E. (2015)
+Deep Learning
+Nature, Vol. 521, pp 436-444. 
+https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+```
