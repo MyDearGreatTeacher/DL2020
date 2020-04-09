@@ -38,6 +38,20 @@ import torch
 print("PyTorch version: %s" %torch.__version__)
 print("2020年3月PyTorch version最新版本 是1.4 請參閱https://pytorch.org/")
 ```
+```
+20200409:
+matplotlib version: 3.2.1
+numpy version: 1.18.2
+scikit-learn version: 0.22.2.post1
+tensorflow version: 2.2.0-rc2
+PyTorch version: 1.4.0
+2020年3月PyTorch version最新版本 是1.4 請參閱https://pytorch.org/
+```
+###
+```
+在colab中使用tensorflow2.1或2.0
+https://blog.csdn.net/qq_42145862/article/details/104217873
+```
 # 修課同學的github作業
 ```
 學號      姓名          github
