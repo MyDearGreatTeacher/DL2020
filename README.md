@@ -38,6 +38,8 @@ Tommy Blanchard, Debasish Behera, Et al
 March 30, 2019
 
 https://www.packtpub.com/big-data-and-business-intelligence/data-science-marketing-analytics
+
+https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics
 ```
 ```
 Hands-On Data Science for Marketing
