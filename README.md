@@ -40,6 +40,29 @@ March 30, 2019
 https://www.packtpub.com/big-data-and-business-intelligence/data-science-marketing-analytics
 ```
 ```
+Hands-On Data Science for Marketing
+Yoon Hyup Hwang
+March 29, 2019
+464 pages
+
+
+https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing
+
+1Data Science and Marketing
+2Key Performance Indicators and Visualizations
+3Drivers behind Marketing Engagement
+4From Engagement to Conversion
+5Product Analytics
+6Recommending the Right Products
+7Exploratory Analysis for Customer Behavior
+8Predicting the Likelihood of Marketing Engagement
+9Customer Lifetime Value
+10Data-Driven Customer Segmentation
+11Retaining Customers
+12A/B Testing for Better Marketing Strategy
+13What's Next?
+```
+```
 Marketing Data Science: Modeling Techniques in Predictive Analytics with R and Python (Hardcover)
 Thomas W. Miller
 Prentice Hall
