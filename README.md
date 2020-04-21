@@ -14,6 +14,24 @@ TensorFlow Core v2.1.0
 作者： 李金洪  出版社：深智數位  
 出版日期：2020/01/20
 ```
+# 20200423  Kaggle專案
+```
+Google Analytics Customer Revenue Prediction
+Predict how much GStore customers will spend
+
+
+https://www.kaggle.com/c/ga-customer-revenue-prediction/data
+
+http://www.7daixie.com/2020012122929031.html
+
+
+他山之石可以估錯　
+Google Analytics Customer Revenue Prediction　github
+
+https://github.com/abdkumar/Google-Analytics-Customer-Revenue-Prediction/blob/master/customer%20revenue%20prediction.ipynb
+
+https://github.com/Subhankar29/Google-Analytics-Customer-Revenue-Prediction
+```
 # 20200312 資料分析
 ### NUMPY
 ```
