@@ -14,7 +14,7 @@ TensorFlow Core v2.1.0
 作者： 李金洪  出版社：深智數位  
 出版日期：2020/01/20
 ```
-# 20200423  Kaggle專案
+# 20200423  Marketing Data science +Kaggle專案
 ```
 Google Analytics Customer Revenue Prediction
 Predict how much GStore customers will spend
@@ -32,6 +32,24 @@ https://github.com/abdkumar/Google-Analytics-Customer-Revenue-Prediction/blob/ma
 
 https://github.com/Subhankar29/Google-Analytics-Customer-Revenue-Prediction
 ```
+```
+Data Science for Marketing Analytics
+Tommy Blanchard, Debasish Behera, Et al
+March 30, 2019
+
+https://www.packtpub.com/big-data-and-business-intelligence/data-science-marketing-analytics
+```
+```
+Marketing Data Science: Modeling Techniques in Predictive Analytics with R and Python (Hardcover)
+Thomas W. Miller
+Prentice Hall
+
+
+```
+```
+https://medium.com/marketingdatascience/%E7%94%A8python%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%AD%A5%E6%AD%A5%E6%89%93%E9%80%A0-%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%A2%E6%88%B6%E7%B2%BE%E6%BA%96%E5%90%8D%E5%96%AE-%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-e499041c4edd
+```
+
 # 20200312 資料分析
 ### NUMPY
 ```
