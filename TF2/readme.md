@@ -6,18 +6,6 @@ ISBN:9864344633
 ISBN-13:9789864344635
 ```
 ```
-TensorFlow 2.0 捲積神經網絡實戰
-王曉華  清華大學  簡體中文
-ISBN:7302540659
-ISBN-13:9787302540656
-
-
-https://www.tenlong.com.tw/products/9787302540656?list_name=srh
-
-
-```
-
-```
 TensorFlow 2.0 深度學習快速入門：從1到2快人一步，從0到2一步到位
 趙英俊 著 廖信彥 審校 博碩文化 繁體中文
 ISBN:986434482X
@@ -34,13 +22,13 @@ https://www.tenlong.com.tw/products/9789864344826?list_name=lv
 2.2 TensorFlow 2.0 環境建置
 2.3 TensorFlow 2.0 基礎知識
 2.4 TensorFlow 2.0 高階API（tf.keras）
+
 03 基於CNN 的圖形識別應用程式設計實作
 04 基於Seq2Seq 的中文聊天機器人程式設計實作
 05 基於CycleGAN 的圖形風格轉移應用程式設計實作
 06 基於Transformer 的文字情感分析程式設計實作
 07 基於TensorFlow Serving 的模型部署實作
 ```
-
 ```
 走向 TensorFlow2.0：深度學習應用編程快速入門
 趙英俊  電子工業  簡體中文
@@ -56,3 +44,15 @@ https://www.tenlong.com.tw/products/9787121376467?list_name=srh
 基於BERT的知識提取、
 圖片自動識別與標註。
 ```
+```
+TensorFlow 2.0 捲積神經網絡實戰
+王曉華  清華大學  簡體中文
+ISBN:7302540659
+ISBN-13:9787302540656
+
+https://www.tenlong.com.tw/products/9787302540656?list_name=srh
+```
+
+
+
+
