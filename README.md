@@ -1,5 +1,6 @@
 # 論文報告
 ```
+https://arxiv.org/abs
 Graph Neural Networks:A Review of Methods and Applications
 https://arxiv.org/pdf/1812.08434.pdf
 ```
@@ -8,7 +9,20 @@ Graph Neural Network (1/2) (由助教姜成翰同學講授)
 https://www.youtube.com/watch?v=eybCCtNKwzA
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/GNN.pdf
 ```
-
+# 課本報告
+```
+https://github.com/taipeitechmmslab/MMSLAB-TF2
+CHAPTER 02| 迴歸問題---陳同學 勒人
+|CHAPTER 03| 二元分類問題===劉同學
+|CHAPTER 04| 多類別分類問題===外國人
+|CHAPTER 05| 神經網路訓練技巧===裝西方
+|CHAPTER 06| TensorFlow 2.0進階技巧===張宇妹妹
+|CHAPTER 07| TensorBoard進階技巧==不耍廢
+|CHAPTER 08| 卷積神經網路經典架構==凱改
+|CHAPTER 09| 遷移學習======anny姊報告
+|CHAPTER 10| Variational Auto-Encoder==RON
+|CHAPTER 11| Generative Adversarial Network===LULU
+```
 # DEEPLEARNING2020
 ```
 官方網址: 
