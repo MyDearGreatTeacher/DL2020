@@ -1,3 +1,14 @@
+# 論文報告
+```
+Graph Neural Networks:A Review of Methods and Applications
+https://arxiv.org/pdf/1812.08434.pdf
+```
+```
+Graph Neural Network (1/2) (由助教姜成翰同學講授)
+https://www.youtube.com/watch?v=eybCCtNKwzA
+http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/GNN.pdf
+```
+
 # DEEPLEARNING2020
 ```
 官方網址: 
