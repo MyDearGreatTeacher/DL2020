@@ -1,3 +1,8 @@
+# 期中平時報告
+```
+https://github.com/MyDearGreatTeacher/AISec_2020/tree/master/opencv/%E6%9D%8E%E7%AB%8B%E5%AE%97
+影像處理與opencv實測報告
+```
 #
 ```
 OpenCV轻松入门：面向python
